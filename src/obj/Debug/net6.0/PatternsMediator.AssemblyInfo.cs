@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PatternsMediator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+073ab7a89b5e292e2fd955f7216252be4e47d2cd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+175765b492a4b1e83d985cabd4cce06537443fb9")]
 [assembly: System.Reflection.AssemblyProductAttribute("PatternsMediator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PatternsMediator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

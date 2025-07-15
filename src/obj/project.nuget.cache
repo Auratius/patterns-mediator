@@ -1,14 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "1g1wfPXmIeC78AhgDj6+u3kPSHDMhC977c5Dw016+KWpSzMq/H46eixE0ODoBtxJ8T/sV22FlSt7IAQyeGmp7A==",
+  "dgSpecHash": "WGMoEyCg6t3ef/2gHFlyPpmuDZrYQs3hqsACvd9oxlEIxReucED5oHErycm4j6OAOfHUyPTsgXa6Y/YXFrYxaA==",
   "success": true,
   "projectFilePath": "/home/runner/work/patterns-mediator/patterns-mediator/src/PatternsMediator.csproj",
   "expectedPackageFiles": [
     "/home/runner/.nuget/packages/system.diagnostics.eventlog/7.0.0/system.diagnostics.eventlog.7.0.0.nupkg.sha512",
-    "/home/runner/.nuget/packages/system.serviceprocess.servicecontroller/7.0.0/system.serviceprocess.servicecontroller.7.0.0.nupkg.sha512",
-    "/home/runner/.nuget/packages/microsoft.netcore.app.ref/6.0.36/microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
-    "/home/runner/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.36/microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
-    "/home/runner/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.36/microsoft.netcore.app.host.linux-x64.6.0.36.nupkg.sha512"
+    "/home/runner/.nuget/packages/system.serviceprocess.servicecontroller/7.0.0/system.serviceprocess.servicecontroller.7.0.0.nupkg.sha512"
   ],
   "logs": []
 }
